@@ -13,6 +13,8 @@ On addition of an item form should perform following validations (price is more 
 
 Addition should be performed successfully with no errors (0.5%)
 You can add new clothes in http://localhost:8080/add successfully
+![image](https://user-images.githubusercontent.com/32995324/217099812-83b50226-1aaf-4076-b106-79f3b59b1964.png)
+
 
 Use Bootstrap to provide styling (0.5%)
 
