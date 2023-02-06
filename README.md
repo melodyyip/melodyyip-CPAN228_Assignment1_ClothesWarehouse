@@ -12,7 +12,9 @@ On addition of an item form should perform following validations (price is more 
 ![image](https://user-images.githubusercontent.com/32995324/217098637-f9af72a1-9e17-493c-9d8d-77fe8d6c6535.png)
 
 Addition should be performed successfully with no errors (0.5%)
+
 You can add new clothes in http://localhost:8080/add successfully
+![image](https://user-images.githubusercontent.com/32995324/217100168-acb882dd-f0e0-43cc-a177-3576080c88be.png)
 ![image](https://user-images.githubusercontent.com/32995324/217099812-83b50226-1aaf-4076-b106-79f3b59b1964.png)
 
 
